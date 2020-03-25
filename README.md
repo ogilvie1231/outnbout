@@ -1,6 +1,6 @@
 # project-2
 <p>Welcome to 
- <a href="https://ogilvie1231.github.io/project-1/">Out N' Bout</a> A site built to buy, sell and rent outdoor equiptment.</p>
+ <a href="https://out-n-about-project.herokuapp.com/">Out N' Bout</a> A site built to buy, sell and rent outdoor equiptment.</p>
 <img src="./assets/13.png" alt="site image" >&nbsp;
 <!-- ![cover photo](./assets/13.png) -->
 <h3>This project was built with:</h3>
