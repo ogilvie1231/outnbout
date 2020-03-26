@@ -47,6 +47,10 @@ module.exports = function(app) {
         res.render("rentals");
     });
 
+    app.get("/middleground", function(req, res) {
+        res.redirect('https://ogilvie1231.github.io/project-1/')
+    })
+
     // Load example page and pass in an example by id
     app.get("/example/:id", function(req, res) {
         db.Products.findOne({ where: { id: req.params.id } }).then(function(dbExample) {
